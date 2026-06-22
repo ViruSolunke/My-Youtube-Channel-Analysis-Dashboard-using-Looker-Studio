@@ -1,4 +1,7 @@
 # 📊 YouTube Creator Analytics Dashboard
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=220&section=header&text=YouTube%20Analytics%20Dashboard&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <div align="center">
 
@@ -52,7 +55,7 @@ By converting raw YouTube Analytics data into meaningful visualizations, the das
 
 ## Executive Summary
 
-![Dashboard Screenshot](dashboard-screenshots/executive-summary.png)
+![Dashboard Screenshot](dashboard1.png)
 
 ### Included KPIs
 
@@ -68,7 +71,7 @@ By converting raw YouTube Analytics data into meaningful visualizations, the das
 
 ## Video Performance Dashboard
 
-![Dashboard Screenshot](dashboard-screenshots/video-performance.png)
+![Dashboard Screenshot](dashboard2.png)
 
 ### Analysis Included
 
@@ -214,3 +217,6 @@ YouTube-Creator-Analytics-Dashboard
 📊 Data → Insights → Decisions 🚀
 
 </div>
+![Dashboard](https://img.shields.io/badge/Dashboard-Looker_Studio-orange?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-YouTube-red?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Data_Visualization-BI-blue?style=for-the-badge)

@@ -47,7 +47,7 @@ By converting raw YouTube Analytics data into meaningful visualizations, the das
 
 ### 🔗 GitHub Repository
 
-👉 **[Add Your GitHub Repository Link Here]**
+👉 **[https://github.com/ViruSolunke/My-Youtube-Channel-Analysis-Dashboard-using-Looker-Studio.git]**
 
 ---
 
@@ -216,7 +216,9 @@ YouTube-Creator-Analytics-Dashboard
 
 📊 Data → Insights → Decisions 🚀
 
-</div>
 ![Dashboard](https://img.shields.io/badge/Dashboard-Looker_Studio-orange?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Analytics-YouTube-red?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Data_Visualization-BI-blue?style=for-the-badge)
+
+
+</div>
